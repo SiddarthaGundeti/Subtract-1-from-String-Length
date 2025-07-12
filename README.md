@@ -2,6 +2,10 @@
 
 **Write a Program to that reads a word and prints L-1, where L is the length of the word.**
 
+Input: Python
+
+Output: 5
+
 Step 1: Get the input
 First, we need to get the input from the user, which is a word.
 Here, input() is a function that allows the user to enter a word, and word is a variable that stores the entered word.
@@ -18,6 +22,4 @@ Finally, we'll print the result on the screen using the print() function.
 The print() function displays the value of the result variable, which is the length of the word minus 1.
 Follow the above steps to print the integer obtained after subtracting 1 from the length of the word.
 
-Input: Python
 
-Output: 5
