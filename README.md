@@ -18,3 +18,6 @@ Step 4: Print the Result
 Finally, we'll print the result on the screen using the print() function.
 The print() function displays the value of the result variable, which is the length of the word minus 1.
 Follow the above steps to print the integer obtained after subtracting 1 from the length of the word.
+
+Input: Python
+Output: 5
