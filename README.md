@@ -13,7 +13,6 @@ len() is a function that gives us the number of characters in a string. Here, wo
 Step 3: Subtract 1 from the Length
 Now that we have the length of the word, we need to subtract 1 from it. We can do this using the subtraction operator -.
 
-PYTHON
 Step 4: Print the Result
 Finally, we'll print the result on the screen using the print() function.
 The print() function displays the value of the result variable, which is the length of the word minus 1.
