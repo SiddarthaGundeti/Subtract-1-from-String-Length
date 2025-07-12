@@ -19,4 +19,5 @@ The print() function displays the value of the result variable, which is the len
 Follow the above steps to print the integer obtained after subtracting 1 from the length of the word.
 
 Input: Python
+
 Output: 5
